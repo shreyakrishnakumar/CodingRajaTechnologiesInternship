@@ -1,4 +1,4 @@
-# Coding-Raja-Technologies-Internship
+# CODING RAJA TECHNOLOGIES INTERNSHIP
 
 #MOVIE RECOMMENDATION SYSTEM
 This project is about Movie Recommendation System.We can type the name of a movie into an input box, and instantly get recommendations for other movies we might like. 
